@@ -1,0 +1,5 @@
+{
+  "profiles": [
+    { "cloud": "ZSBeta" , "role": "SME", "build_version": 21 }
+    ]
+}
