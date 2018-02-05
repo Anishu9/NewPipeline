@@ -1,5 +1,6 @@
 {
   "profiles": [
-    { "cloud": "ZSBeta", "role": "SME", "build": 21 }
+    { "cloud": "ZSBeta", "role": "SME", "build": 21 },
+    { "cloud": "ZSBeta", "role":"SMCA", "build":22}
     ]
 }
