@@ -1,7 +1,5 @@
 {
   "profiles": [
-    { "id": 1, "name": "Anishu", "age": 21 },
-    { "id": 2, "name": "Shivani", "age": 25 },
-      { "id": 3, "name": "Smarth", "age": 23 }
+    { "cloud": "ZSBeta", "role": "SME", "build": 21 }
     ]
 }
